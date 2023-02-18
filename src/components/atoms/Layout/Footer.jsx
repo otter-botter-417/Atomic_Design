@@ -10,6 +10,6 @@ const SFooter = styled.footer`
   text-align: center;
   padding: 8px 0;
   position: fixed;
-  botttom: 0;
+  bottom: 0;
   width: 100%;
 `;
